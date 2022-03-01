@@ -1,0 +1,8 @@
+D:\semester 4\pemograman visual\programsederhana\programsederhana\bin\Debug\programsederhana.exe.config
+D:\semester 4\pemograman visual\programsederhana\programsederhana\bin\Debug\programsederhana.exe
+D:\semester 4\pemograman visual\programsederhana\programsederhana\bin\Debug\programsederhana.pdb
+D:\semester 4\pemograman visual\programsederhana\programsederhana\obj\Debug\programsederhana.csprojResolveAssemblyReference.cache
+D:\semester 4\pemograman visual\programsederhana\programsederhana\obj\Debug\programsederhana.MainForm.resources
+D:\semester 4\pemograman visual\programsederhana\programsederhana\obj\Debug\programsederhana.csproj.GenerateResource.Cache
+D:\semester 4\pemograman visual\programsederhana\programsederhana\obj\Debug\programsederhana.exe
+D:\semester 4\pemograman visual\programsederhana\programsederhana\obj\Debug\programsederhana.pdb
